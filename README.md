@@ -1,1 +1,3 @@
 # TicTacToe
+
+A pet project.
