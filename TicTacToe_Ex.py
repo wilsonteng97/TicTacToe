@@ -142,7 +142,6 @@ while True:
             makeMove(theBoard, playerLetter, move)
 
             if isWinner(theBoard, playerLetter):
-                drawboard(theBoard)
                 print('Hooray! You\'ve won!')
                 gameIsPlaying = False
             else:
